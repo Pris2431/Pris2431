@@ -28,3 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pris2431&" alt="pris2431" /></p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@prisstudy68063/30-nites-of-code)  
+  ![@prisstudy68063 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=prisstudy68063)
+
